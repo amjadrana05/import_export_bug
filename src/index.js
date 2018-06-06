@@ -1,6 +1,21 @@
+import { info } from "./utility";
+import hello from "./utility";
 import { myName } from './utility';
 
-console.log(myName("Amjad", 12));
+
+console.log(info);
+console.log(hello());
+console.log(myName());
+
+
+
+
+
+
+
+
+
+
 
 // let persons = {
 //   a: 'Amjad',
